@@ -15,22 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 About me ...
+- 💬 About this organisation ...
 
-  I was working more than 40 years as software developer writing code for online transactional systems. Since 2022 I spend my spare time to the community maintaining and writing adapters for the ioBroker system, most of them assigned to the ioBroker Community Adapters organization. In addition I'm supporting others through ioBrokers communication channels (telegram and forum).
+  This organization contains repositories related to ioBroker iot platform. Repositories are maintained by mcm1957 (https://github.com/mcm1957) and volunteer supporting the ioBroker system.
 
-  My goal is to deliver best experience with adapters I maintain and solve user requests within a reaonable time (if technically possible).
-  
-  You can contact me using english and german language.
-
-- 🔭 I’m currently working on the following ioBroker adapters ...
-
-  - ioBroker.snmp - an adapter providing snmp protocol to ioBroker
-  - ioBroker.pid - an adapter providing a pid controller to be used withion ioBroker
-  - ioBroker.envertech-pv - an adapter to visualkize energy prduction of envertech-pc systems
-  - some more are planned - look at my activity or checkout the ioBroker forum for news
-  
-- 📫 How to reach me: ...
+  Our goal is to deliver best experience with ioBroker adapters and solve user requests within a reaonable time (if technically possible).
+    
+- 📫 How to reach us: ...
 
   You can send an email to mcm57@gmx.at or ask at ioBrokers telegram channels.
 
