@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 
 - If you want to support me (- some computer equipment is always to replace -) or simply say "Thanks for the work", you can:
 
-  [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-blue.svg)](https://paypal.me/martinmichalecz)<br>
-  [Paypal me](https://paypal.me/martinmichalecz)
+  [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-blue.svg)](https://paypal.me/mcm1957atIoBroker)<br>
+  [Paypal me](https://paypal.me/mcm1957atIoBroker)
