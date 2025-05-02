@@ -30,9 +30,14 @@ Here are some ideas to get you started:
   [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-blue.svg)](https://paypal.me/mcm1957atIoBroker)<br>
   [Paypal me](https://paypal.me/mcm1957atIoBroker)
 
-## My Adapters
+### My Adapters
 
 - [ioBroker.nsclient](https://github.com/mcm4iob/ioBroker.nsclient), an adapter to monitor remote systems using NSClient++ agent.
 - [ioBroker.pid](https://github.com/mcm4iob/ioBroker.pid), a configurable pid controller for ioBroker.
 - [ioBroker.shrdzm](https://github.com/mcm4iob/ioBroker.shrdzm), an adapter to process smartmeter data received by shrdzm device.
   
+### Adapters maintained
+
+- [ioBroker.envertech-pv](https://github.com/iobroker-community-adapters/ioBroker.envertech-pv), an adapter to control envertech-pv microinvertes (via cloud access).
+- [ioBroker.snmp](https://github.com/iobroker-community-adapters/ioBroker.snmp), an adapter to manage snmp data.
+
