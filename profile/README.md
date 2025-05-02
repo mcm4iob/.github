@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   This organization contains repositories related to ioBroker iot platform. Repositories are maintained by mcm1957 (https://github.com/mcm1957) and volunteer supporting the ioBroker system.
 
-  Our goal is to deliver best experience with ioBroker adapters and solve user requests within a reaonable time (if technically possible).
+  My goal is to deliver best experience with ioBroker adapters and solve user requests within a reaonable time (if technically possible).
     
 - 📫 How to reach us: ...
 
@@ -29,3 +29,10 @@ Here are some ideas to get you started:
 
   [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-blue.svg)](https://paypal.me/mcm1957atIoBroker)<br>
   [Paypal me](https://paypal.me/mcm1957atIoBroker)
+
+## My Adapters
+
+- [ioBroker.nsclient](https://github.com/mcm4iob/ioBroker.nsclient), an adapter to monitor remote systems using NSClient++ agent.
+- [ioBroker.pid](https://github.com/mcm4iob/ioBroker.pid), a configurable pid controller for ioBroker.
+- [ioBroker.shrdzm](https://github.com/mcm4iob/ioBroker.shrdzm), an adapter to process smartmeter data received by shrdzm device.
+  
