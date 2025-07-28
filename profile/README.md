@@ -32,12 +32,14 @@ Here are some ideas to get you started:
 
 ### My Adapters
 
+- [ioBroker.hoymiles-ms](https://github.com/mcm4iob/ioBroker.hoymiles-ms), an adapter to integrate the hoymiles ms-a2 microstorage into ioBroker..
 - [ioBroker.nsclient](https://github.com/mcm4iob/ioBroker.nsclient), an adapter to monitor remote systems using NSClient++ agent.
 - [ioBroker.pid](https://github.com/mcm4iob/ioBroker.pid), a configurable pid controller for ioBroker.
 - [ioBroker.shrdzm](https://github.com/mcm4iob/ioBroker.shrdzm), an adapter to process smartmeter data received by shrdzm device.
 
 |Adapter | Beta-Version  | Stable-Version | Installations |
 |---|---|---|---|
+| [ioBroker.hoymiles-ms](https://github.com/mcm4iob/ioBroker.hoymiles-ms) | [![NPM version](http://img.shields.io/npm/v/iobroker.hoymiles-ms.svg)](https://www.npmjs.com/package/iobroker.hoymiles-ms) | [![Stable](http://iobroker.live/badges/hoymiles-ms-stable.svg)](http://iobroker.live/badges/hoymiles-ms-stable.svg) | [![installed](http://iobroker.live/badges/hoymiles-ms-installed.svg)](http://iobroker.live/badges/hoymiles-ms-installed.svg) |
 | [ioBroker.nsclient](https://github.com/mcm4iob/ioBroker.nsclient) | [![NPM version](http://img.shields.io/npm/v/iobroker.nsclient.svg)](https://www.npmjs.com/package/iobroker.nsclient) | [![Stable](http://iobroker.live/badges/nsclient-stable.svg)](http://iobroker.live/badges/nsclient-stable.svg) | [![installed](http://iobroker.live/badges/nsclient-installed.svg)](http://iobroker.live/badges/nsclient-installed.svg) |
 | [ioBroker.pid](https://github.com/mcm4iob/ioBroker.pid) | [![NPM version](http://img.shields.io/npm/v/iobroker.pid.svg)](https://www.npmjs.com/package/iobroker.pid) | [![Stable](http://iobroker.live/badges/pid-stable.svg)](http://iobroker.live/badges/pid-stable.svg) | [![installed](http://iobroker.live/badges/pid-installed.svg)](http://iobroker.live/badges/pid-installed.svg) |
 | [ioBroker.shrdzm](https://github.com/mcm4iob/ioBroker.shrdzm) | [![NPM version](http://img.shields.io/npm/v/iobroker.shrdzm.svg)](https://www.npmjs.com/package/iobroker.shrdzm) | [![Stable](http://iobroker.live/badges/shrdzm-stable.svg)](http://iobroker.live/badges/shrdzm-stable.svg) | [![installed](http://iobroker.live/badges/shrdzm-installed.svg)](http://iobroker.live/badges/shrdzm-installed.svg) |
